@@ -1,2 +1,2 @@
 # Practica-final
-En este proyecto vamos a hacer una página web del tema que escoja. 
+Para este proyecto tengo que hacer una página web de animales marinos es el tema que he escogido para esto.
